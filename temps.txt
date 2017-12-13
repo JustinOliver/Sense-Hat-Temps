@@ -1,0 +1,6 @@
+Time and date at recording: Wed Dec 13 05:48:27 2017
+	Tempeture readings are: 87.35694885253906, 87.35694885253906, 84.78125228881837 
+	Humidity is: 33.94559860229492 
+	Pressure is: 1033.144287109375 
+
+ 
