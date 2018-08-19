@@ -4,3 +4,51 @@ Time and date at recording: Wed Dec 13 05:48:27 2017
 	Pressure is: 1033.144287109375 
 
  
+Time and date at recording: Thu Dec 14 02:06:47 2017
+	Tempeture readings are: 90.8793304443, 90.8793304443, 88.0475013733 
+	Humidity is: 33.1557312012 
+	Pressure is: 1031.70507812 
+
+ 
+Time and date at recording: Mon Dec 18 04:56:11 2017
+	Tempeture readings are: 87.4227844238, 87.4227844238, 32 
+	Humidity is: 43.2759017944 
+	Pressure is: 1018.41918945 
+
+ 
+Time and date at recording: Mon Dec 18 05:06:33 2017
+	Tempeture readings are: 91.5706382751, 91.5706382751, 88.2987518311 
+	Humidity is: 38.8267288208 
+	Pressure is: 1018.43481445 
+
+ 
+Time and date at recording: Mon Dec 18 05:11:22 2017
+	Tempeture readings are: 91.0110084534, 91.0110084534, 88.0737518311 
+	Humidity is: 38.6230926514 
+	Pressure is: 1018.43847656 
+
+ 
+Time and date at recording: Mon Dec 18 05:11:43 2017
+	Tempeture readings are: 91.0768440247, 91.0768440247, 88.0137493134 
+	Humidity is: 39.3944473267 
+	Pressure is: 1018.43383789 
+
+ 
+Time and date at recording: Mon Dec 18 05:47:52 2017
+	Tempeture readings are: 91.0110084534, 91.0110084534, 87.7887493134 
+	Humidity is: 38.1541061401 
+	Pressure is: 1018.43188477 
+
+ 
+Time and date at recording: Fri Jan  5 00:56:50 2018
+	Tempeture readings are: 79.5221141815, 79.5221141815, 75.25625 
+	Humidity is: 35.75365448 
+	Pressure is: 1018.01098633 
+
+ 
+Time and date at recording: Mon Jan  8 01:50:43 2018
+	Tempeture readings are: 82.5836227417, 82.5836227417, 77.3862483978 
+	Humidity is: 38.545955658 
+	Pressure is: 1018.31323242 
+
+ 

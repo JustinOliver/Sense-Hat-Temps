@@ -4,6 +4,8 @@
 
 from sense_hat import SenseHat
 from time import sleep, strftime
+from tkey import tnumber, sid, key, mynumber
+import textmyself
 
 sense = SenseHat()
 sense.clear()
@@ -34,3 +36,4 @@ stuff.write('\r\n \r\n')
 #stuff.write('Date and time of record: \n' + time + '\n')
 stuff.close()
 
+textmyself.textmyself('The current temp in your apartment is {:.1f}, humidity is {:.3f}, pressure is {:.4f}' .format(temp, humidity, pressure))
